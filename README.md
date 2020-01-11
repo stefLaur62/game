@@ -6,7 +6,7 @@ ZQSD : Car direction
 
 Space : Handbrake
 
-R : Restart to the Sstart
+R : Restart to the start
 
 
 ## TODO
