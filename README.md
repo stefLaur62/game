@@ -1,6 +1,7 @@
 Third person race game.
 
 File BuildedGame contains the game's executable
+
 ## Controls
 
 ZQSD : Car direction
@@ -13,6 +14,10 @@ R : Restart to the start
 ## TODO
 
 Start menu
+
+Pause menu
+
+Improve road
 
 Improve race end
 
