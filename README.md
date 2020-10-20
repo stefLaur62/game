@@ -6,7 +6,10 @@ You can choose to use the road or not.
 
 
 You can find the game executable in BuildedGame named Racing.exe
-![Images of game](GameImage/game3.png)
+
+
+![Images of game](GameImages/game3.png)
+
 [![Demo game](https://gyazo.com/e88b62c6b860f0b7505d7965b631fcb2)](https://gyazo.com/e88b62c6b860f0b7505d7965b631fcb2)
 
 
