@@ -23,9 +23,7 @@ Space : Handbrake
 
 R : Restart to the Start
 
-##To Improve
-
-R : Restart to the start
+## To Improve
 
 Start menu
 
