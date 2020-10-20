@@ -12,7 +12,7 @@ You can find the game executable in BuildedGame named Racing.exe
 
 Here is a really short demo:
 
-![](GameImages/e88b62c6b860f0b7505d7965b631fcb2.mp4)
+![Demo](GameImages/Short_demo.gif)
 
 
 ## Controls
